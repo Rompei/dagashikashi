@@ -1,0 +1,138 @@
+[
+	{
+		"name": "チーズ味",
+		"energy": 34,
+		"protein": 0.4,
+		"fat": 2,
+		"carbon": 3.1,
+		"natrium": 35
+	},
+	{
+		"name": "ポタージュ",
+		"energy": 34,
+		"protein": 0.4,
+		"fat": 2.1,
+		"carbon": 3.3,
+		"natrium": 35
+	},
+	{
+		"name": "めんたい味",
+		"energy": 35,
+		"protein": 0.4,
+		"fat": 2.3,
+		"carbon": 3.1,
+		"natrium": 37
+	},
+	{
+		"name": "サラミ味",
+		"energy": 34,
+		"protein": 0.4,
+		"fat": 2.1,
+		"carbon": 3.2,
+		"natrium": 33
+	},
+	{
+		"name": "ヤサイサラダ味",
+		"energy": 35,
+		"protein": 0.4,
+		"fat": 2.3,
+		"carbon": 3,
+		"natrium": 33
+	},
+	{
+		"name": "テリヤキバーガー味",
+		"energy": 35,
+		"protein": 0.4,
+		"fat": 2.3,
+		"carbon": 3,
+		"natrium": 33
+	},
+	{
+		"name": "エビマヨネーズ味",
+		"energy": 34,
+		"protein": 0.4,
+		"fat": 2.2,
+		"carbon": 3.2,
+		"natrium": 32
+	},
+	{
+		"name": "シュガーラスク味",
+		"energy": 34,
+		"protein": 0.3,
+		"fat": 2,
+		"carbon": 3.5,
+		"natrium": 22
+	},
+	{
+		"name": "たこ焼味",
+		"energy": 36,
+		"protein": 0.3,
+		"fat": 2.6,
+		"carbon": 2.9,
+		"natrium": 53
+	},
+	{
+		"name": "ピザ味",
+		"energy": 35,
+		"protein": 0.3,
+		"fat": 2.4,
+		"carbon": 3,
+		"natrium": 28
+	},
+	{
+		"name": "なっとう味",
+		"energy": 32,
+		"protein": 0.6,
+		"fat": 1.9,
+		"carbon": 3.3,
+		"natrium": 50
+	},
+	{
+		"name": "オニオンサラダ味",
+		"energy": 37,
+		"protein": 0.4,
+		"fat": 2.8,
+		"carbon": 2.7,
+		"natrium": 35
+	},
+	{
+		"name": "モッツァレラチーズ＆カマンベールチーズ味",
+		"energy": 50,
+		"protein": 0.7,
+		"fat": 3.1,
+		"carbon": 4.7,
+		"natrium": 86
+	},
+	{
+		"name": "チョコレート",
+		"energy": 29,
+		"protein": 0.3,
+		"fat": 1.9,
+		"carbon": 2.7,
+		"natrium": 12
+	},
+	{
+		"name": "とんかつソース味",
+		"energy": 29,
+		"protein": 0.3,
+		"fat": 2,
+		"carbon": 2.5,
+		"natrium": 24
+	},
+	{
+		"name": "牛タン塩味",
+		"energy": 34,
+		"protein": 0.4,
+		"fat": 2.2,
+		"carbon": 3.2,
+		"natrium": 32
+	},
+	{
+		"name": "明太子味",
+		"energy": 49,
+		"protein": 0.7,
+		"fat": 2.9,
+		"carbon": 5,
+		"natrium": 99
+	}
+]
